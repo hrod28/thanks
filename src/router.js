@@ -22,9 +22,12 @@ import Emily from './components/emily.js'
 import Lindsay from './components/lindsay.js'
 import Marcus from './components/marcus.js'
 import Chad from './components/chad.js'
+import John from './components/john.js'
 import Kyle from './components/kyle.js'
 import Ponch from './components/ponch.js'
+import Valerie from './components/valerie.js'
 import Colleen from './components/colleen.js'
+import Ellison from './components/ellison.js'
 import Sammy from './components/sleep-fiend.js'
 
 
@@ -40,6 +43,9 @@ var AppRouter = React.createClass({
           <Route path="/parking" component={Validation} />
           <Route path="/hayashida" component={Hayashida} />
           <Route path="/tom" component={Tom} />
+          <Route path="/valerie" component={Valerie} />
+          <Route path="/ellison" component={Ellison} />
+          <Route path="/john" component={John} />
           <Route path="/colleen" component={Colleen} />
           <Route path="/kyle" component={Kyle} />
           <Route path="/chad" component={Chad} />
