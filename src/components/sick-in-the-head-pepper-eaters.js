@@ -50,7 +50,8 @@ const Hayashida = React.createClass({
             allowFullScreen/>
 
         <Card className="uiCardMenu1">
-          <p> thank you text here </p>
+          <p> Nick and Amber </p>
+          <p> We could not have picked a better officiant for our ceremony.  It was so beautiful, you did an outstanding job.  We are very fortunate to have such wonderful, genuine people in our lives.  Thanks for being there for our ceremony, for all the work you did to help set up before the reception started, and for sharing in all the fun.  Much appreciation to both of you for making our day amazing!! </p>
         </Card>
 
         </Card>

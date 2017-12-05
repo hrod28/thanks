@@ -51,6 +51,7 @@ var AppRouter = React.createClass({
           <Route path="/chad" component={Chad} />
           <Route path="/belle" component={Belle} />
           <Route path="/corey" component={Corey} />
+          <Route path="/ponch" component={Ponch} />
           <Route path="/gloria" component={Gloria} />
           <Route path="/derek" component={Derek} />
           <Route path="/marcus" component={Marcus} />

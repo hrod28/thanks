@@ -50,7 +50,8 @@ const Ryan = React.createClass({
             allowFullScreen/>
 
         <Card className="uiCardMenu1">
-          <p> thank you text here </p>
+          <p> Ryan </p>
+          <p> Thank you so much for helping to celebrate our special day.  Thank you also for the wine, it was delicious! (even though Matt drank it all, hahaha!!)  Can't wait for our trip to Zion and Moab this summer.  Let's make it happen! </p>
         </Card>
 
         </Card>

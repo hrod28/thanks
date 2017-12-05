@@ -50,7 +50,8 @@ const Ponch = React.createClass({
             allowFullScreen/>
 
         <Card className="uiCardMenu1">
-          <p> thank you text here </p>
+          <p> Ponch and Adele </p>
+          <p> Thank you both for coming out to celebrate our wedding.  The coconut bra photo booth picture is priceless!!  It was great to meet your son, as well.  Thanks again for being a part of our celebration.  Cheers! </p>
         </Card>
 
         </Card>

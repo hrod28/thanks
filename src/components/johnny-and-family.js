@@ -51,6 +51,7 @@ const Johnny = React.createClass({
 
         <Card className="uiCardMenu1">
           <p> thank you text here </p>
+          <p> thank you text here </p>
         </Card>
 
         </Card>

@@ -49,9 +49,9 @@ const Belle = React.createClass({
             position="relative"
             allowFullScreen/>
 
+            </Card>
         <Card className="uiCardMenu1">
-          <p> thank you text here </p>
-        </Card>
+          <p> Thank you for helping to celebrate our special day.  I am so happy that you were able to make it!  We appreciate your attendance and gift.   </p>
 
         </Card>
 

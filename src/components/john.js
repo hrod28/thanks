@@ -50,7 +50,8 @@ const John = React.createClass({
             allowFullScreen/>
 
         <Card className="uiCardMenu1">
-          <p> thank you text here </p>
+          <p> John  </p>
+          <p> My friendship with you has enriched my life on a daily basis.  Thank you for you commitment to pay it forward in the form of volunteer work and kindness toward others.  It was our only wish for a wedding gift:  a better world in which to start our new lives together.  Thanks for being a part of our special day, and for bringing your paddleboard along and offering it for others to have fun as well.  You helped to make it an awesome celebration, one for the books.  We love you!!</p>
         </Card>
 
         </Card>

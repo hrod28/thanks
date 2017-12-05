@@ -50,7 +50,10 @@ const Hayashida = React.createClass({
             allowFullScreen/>
 
         <Card className="uiCardMenu1">
-          <p> thank you text here </p>
+          <p> Uncle Lloyd and Auntie Carol </p>
+          <p> Since you were not able to make it all the way out, we wanted to make this video and share our special day with you.  We had a simple ceremony in the beautiful rocky mountains, and a causal reception at a local reservoir.  Most importantly, we wanted to thank you for the extremely generous wedding gift that we are using to build our new lives together.  Thank you also for thinking about us on this day.  We hope that sometime soon we can make it out to visit.  </p>
+          <p> Love Always, </p>
+          <p> Matthew and Heidi </p>
         </Card>
 
         </Card>

@@ -50,7 +50,8 @@ const Ellison = React.createClass({
             allowFullScreen/>
 
         <Card className="uiCardMenu1">
-          <p> thank you text here </p>
+          <p> </p>
+          <p> Thank you from the both of us for making the trip out to attend our wedding.  We had a wonderful time.  Thank you for thinking about us, for the gift, and for sharing in the celebration. </p>
         </Card>
 
         </Card>

@@ -50,7 +50,8 @@ const Andrew = React.createClass({
             allowFullScreen/>
 
         <Card className="uiCardMenu1">
-          <p> thank you text here </p>
+          <p> Andrew and Christine </p>
+          <p> We would like to thank you so much for making the trip out to our wedding.  It was great to see you both again, and it was great to meet you (from Heidi).  We had a great time at the wedding and also visiting all of those many breweries we made it to (wink, wink)!  Thank you for the wedding gift and congratulations.  Keep in touch and hope to see you both soon. </p>
         </Card>
 
         </Card>
